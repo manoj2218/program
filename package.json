@@ -1,0 +1,11 @@
+{
+  "name": "program",
+  "version": "1.0.0",
+  "description": "Our first expressJS app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "manoj",
+  "license": "MIT"
+}
